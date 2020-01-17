@@ -1,0 +1,381 @@
+Symbol,Company,Weight (%),52 Wk Change(%),
+ABT,Abbott Laborato..,3.71,23.48,Abbott Laboratories
+ABBV,AbbVie Inc.,2.81,0.36,AbbVie Inc.
+ABEO,Abeona Therapeu..,0.01,-69.07,Abeona Therapeutics Inc.
+ABMD,ABIOMED Inc.,0.2,-28.58,ABIOMED Inc.
+ACHC,Acadia Healthca..,0.07,-15.98,Acadia Healthcare Co. Inc.
+ACAD,ACADIA Pharmace..,0.1,162.98,ACADIA Pharmaceuticals Inc.
+AXDX,Accelerate Diag..,0.01,13.09,Accelerate Diagnostics Inc.
+XLRN,Acceleron Pharm..,0.04,-18.06,Acceleron Pharma Inc.
+ARAY,Accuray Inc.,0.01,-40.09,Accuray Inc.
+ACHN,Achillion Pharm..,0.01,138.55,Achillion Pharmaceuticals Inc.
+ACOR,Acorda Therapeu..,0.01,-90.3,Acorda Therapeutics Inc.
+ADUS,Addus HomeCare ..,0.03,23.56,Addus HomeCare Corp.
+ADRO,Aduro Biotech I..,0.01,-66.97,Aduro Biotech Inc.
+AERI,Aerie Pharmaceu..,0.02,-54.28,Aerie Pharmaceuticals Inc.
+AGEN,Agenus Inc.,0.01,80.58,Agenus Inc.
+A,Agilent Technol..,0.61,23.3,Agilent Technologies Inc.
+AGIO,Agios Pharmaceu..,0.04,-44.03,Agios Pharmaceuticals Inc.
+AIMT,Aimmune Therape..,0.02,-7.75,Aimmune Therapeutics Inc.
+AKCA,Akcea Therapeut..,0.01,-28.45,Akcea Therapeutics Inc.
+AKBA,Akebia Therapeu..,0.01,-55.14,Akebia Therapeutics Inc.
+AKRX,Akorn Inc.,0.01,-39.32,Akorn Inc.
+ALXN,Alexion Pharmac..,0.55,-6.67,Alexion Pharmaceuticals Inc.
+ALGN,Align Technolog..,0.35,19.97,Align Technology Inc.
+ALKS,Alkermes plc,0.08,-36.36,Alkermes plc
+ALLK,Allakos Inc.,0.05,34.47,Allakos Inc.
+AGN,Allergan plc,1.39,16.42,Allergan plc
+ALLO,Allogene Therap..,0.02,11.22,Allogene Therapeutics Inc.
+MDRX,Allscripts Heal..,0.05,11.01,Allscripts Healthcare Solutions Inc.
+ALNY,Alnylam Pharmac..,0.22,41.46,Alnylam Pharmaceuticals Inc.
+AMAG,AMAG Pharmaceut..,0.01,-42.14,AMAG Pharmaceuticals Inc.
+AMED,Amedisys Inc.,0.11,30.53,Amedisys Inc.
+ABC,AmerisourceBerg..,0.33,-2.55,AmerisourceBergen Corp. Class A
+AMGN,Amgen Inc.,2.96,16.02,Amgen Inc.
+FOLD,Amicus Therapeu..,0.05,-6.49,Amicus Therapeutics Inc.
+AMN,AMN Healthcare ..,0.07,4.5,AMN Healthcare Services Inc.
+AMRX,Amneal Pharmace..,0.01,-85.28,Amneal Pharmaceuticals Inc.
+AMPH,Amphastar Pharm..,0.02,-14.46,Amphastar Pharmaceuticals Inc.
+ANAB,AnaptysBio Inc.,0.02,-82.89,AnaptysBio Inc.
+ANGO,AngioDynamics I..,0.02,-25.05,AngioDynamics Inc.
+ANIP,ANI Pharmaceuti..,0.02,6.99,ANI Pharmaceuticals Inc.
+ANIK,Anika Therapeut..,0.02,69.66,Anika Therapeutics Inc.
+ATRS,Antares Pharma ..,0.01,24.18,Antares Pharma Inc.
+ANTM,Anthem Inc.,1.55,6.33,Anthem Inc.
+APLS,Apellis Pharmac..,0.03,101.1,Apellis Pharmaceuticals Inc.
+AMEH,Apollo Medical ..,0.01,-18.43,Apollo Medical Holdings Inc.
+RCUS,Arcus Bioscienc..,0.01,-32.54,Arcus Biosciences Inc.
+ARNA,Arena Pharmaceu..,0.06,40.87,Arena Pharmaceuticals Inc.
+ARWR,Arrowhead Pharm..,0.06,293.37,Arrowhead Pharmaceuticals Inc.
+ARVN,Arvinas Inc.,0.01,85.46,Arvinas Inc.
+ASMB,Assembly Biosci..,0.01,-41.83,Assembly Biosciences Inc.
+ASRT,Assertio Therap..,0.01,-86.19,Assertio Therapeutics Inc.
+ATRA,Atara Biotherap..,0.02,-61.01,Atara Biotherapeutics Inc.
+ATNX,Athenex Inc.,0.01,13.52,Athenex Inc.
+ATRC,AtriCure Inc.,0.02,-6.25,AtriCure Inc.
+ATRI,Atrion Corp.,0.03,0.48,Atrion Corp.
+BOLD,Audentes Therap..,0.03,14.98,Audentes Therapeutics Inc.
+AVCO,Avalon GloboCar..,0.01,-43.53,Avalon GloboCare Corp.
+AVNS,Avanos Medical ..,0.04,-31.26,Avanos Medical Inc.
+AVTR,Avantor Inc.,0.08,NA,Avantor Inc.
+AVRO,Avrobio Inc.,0.01,-54.7,Avrobio Inc.
+AXGN,Axogen Inc.,0.01,-49.64,Axogen Inc.
+AXNX,Axonics Modulat..,0.01,76.68,Axonics Modulation Technologies Inc.
+AXSM,Axsome Therapeu..,0.01,881.56,Axsome Therapeutics Inc.
+BAX,Baxter Internat..,1.06,27.59,Baxter International Inc.
+BDX,Becton Dickinso..,1.71,5.55,Becton Dickinson and Co.
+BCRX,BioCryst Pharma..,0.01,-74.96,BioCryst Pharmaceuticals Inc.
+BIIB,Biogen Inc.,1.13,-9.98,Biogen Inc.
+BHVN,Biohaven Pharma..,0.05,51.66,Biohaven Pharmaceutical Holding Co. Ltd.
+BMRN,BioMarin Pharma..,0.3,-18.22,BioMarin Pharmaceutical Inc.
+BIO,Bio-Rad Laborat..,0.18,32.66,Bio-Rad Laboratories Inc. Class A
+TECH,Bio-Techne Corp..,0.19,31.62,Bio-Techne Corp.
+BEAT,BioTelemetry In..,0.03,-25.3,BioTelemetry Inc.
+BLUE,Bluebird Bio In..,0.13,-35.63,Bluebird Bio Inc.
+BPMC,Blueprint Medic..,0.09,34.12,Blueprint Medicines Corp.
+BSX,Boston Scientif..,1.42,16.85,Boston Scientific Corp.
+BMY,Bristol-Myers S..,2.08,11.41,Bristol-Myers Squibb Co.
+BKD,Brookdale Senio..,0.03,-17.41,Brookdale Senior Living Inc.
+BRKR,Bruker Corp.,0.12,54,Bruker Corp.
+CLXT,Calyxt Inc.,0.01,-67.19,Calyxt Inc.
+CBM,Cambrex Corp.,0.05,25.17,Cambrex Corp.
+CMD,Cantel Medical ..,0.07,-11.42,Cantel Medical Corp.
+CARA,Cara Therapeuti..,0.02,16.84,Cara Therapeutics Inc.
+CAH,Cardinal Health..,0.35,-1.87,Cardinal Health Inc.
+CSII,Cardiovascular ..,0.04,52.74,Cardiovascular Systems Inc.
+CDNA,CareDx Inc.,0.02,-25.29,CareDx Inc.
+CSLT,Castlight Healt..,0.01,-49.47,Castlight Health Inc. Class B
+CTLT,Catalent Inc.,0.17,33.03,Catalent Inc.
+CELG,Celgene Corp.,1.76,58.01,Celgene Corp.
+CNC,Centene Corp.,0.45,-15.47,Centene Corp.
+CERN,Cerner Corp.,0.56,21.06,Cerner Corp.
+CERS,Cerus Corp.,0.02,-11.49,Cerus Corp.
+CRL,Charles River L..,0.16,8.05,Charles River Laboratories International Inc.
+CHE,Chemed Corp.,0.17,32.66,Chemed Corp.
+CI,Cigna Corp.,1.45,-7.69,Cigna Corp.
+CLVS,Clovis Oncology..,0.01,-57.69,Clovis Oncology Inc.
+CDXS,Codexis Inc.,0.02,-4.14,Codexis Inc.
+CHRS,Coherus Bioscie..,0.03,72.99,Coherus Biosciences Inc.
+COLL,Collegium Pharm..,0.01,4.11,Collegium Pharmaceutical Inc.
+CYH,Community Healt..,0.01,-15.14,Community Health Systems Inc.
+CPSI,Computer Progra..,0.01,4.45,Computer Programs & Systems Inc.
+CNCE,Concert Pharmac..,0.01,-40.62,Concert Pharmaceuticals Inc.
+CNMD,CONMED Corp.,0.07,65.75,CONMED Corp.
+COO,Cooper Cos. Inc..,0.37,18.86,Cooper Cos. Inc.
+CRBP,Corbus Pharmace..,0.01,-24.19,Corbus Pharmaceuticals Holdings Inc.
+CORT,Corcept Therape..,0.04,32.15,Corcept Therapeutics Inc.
+CRVL,CorVel Corp.,0.02,21.75,CorVel Corp.
+CVET,Covetrus Inc.,0.03,NA,Covetrus Inc.
+CRNX,Crinetics Pharm..,0.01,-35.47,Crinetics Pharmaceuticals Inc.
+CRSP,CRISPR Therapeu..,0.03,63.61,CRISPR Therapeutics AG
+CCRN,Cross Country H..,0.01,46.64,Cross Country Healthcare Inc.
+CRY,CryoLife Inc.,0.03,-12.02,CryoLife Inc.
+CYRX,CryoPort Inc.,0.01,57.33,CryoPort Inc.
+CVS,CVS Health Corp..,2.06,-7.04,CVS Health Corp.
+CYCN,Cyclerion Thera..,0.01,NA,Cyclerion Therapeutics Inc.
+CBAY,Cymabay Therape..,0.01,-40.6,Cymabay Therapeutics Inc.
+CYTK,Cytokinetics In..,0.01,32.58,Cytokinetics Inc.
+CTMX,CytomX Therapeu..,0.01,-61.07,CytomX Therapeutics Inc.
+DHR,Danaher Corp.,2.34,41.94,Danaher Corp.
+DVA,DaVita Inc.,0.15,10.07,DaVita Inc.
+DCPH,Deciphera Pharm..,0.02,137.66,Deciphera Pharmaceuticals Inc.
+DNLI,Denali Therapeu..,0.02,-13.44,Denali Therapeutics Inc.
+XRAY,DENTSPLY SIRONA..,0.31,56.83,Dentsply Sirona Inc.
+DERM,Dermira Inc.,0.01,-22.24,Dermira Inc.
+DXCM,DexCom Inc.,0.34,50.09,DexCom Inc.
+DPLO,Diplomat Pharma..,0.01,-75.42,Diplomat Pharmacy Inc.
+DVAX,Dynavax Technol..,0.01,-49.22,Dynavax Technologies Corp. Class A
+EGRX,Eagle Pharmaceu..,0.02,15.6,Eagle Pharmaceuticals Inc./DE
+EDIT,Editas Medicine..,0.03,-15.02,Editas Medicine Inc.
+EW,Edwards Lifesci..,1.15,65.25,Edwards Lifesciences Corp.
+EIDX,Eidos Therapeut..,0.01,238.79,Eidos Therapeutics Inc.
+ELAN,Elanco Animal H..,0.24,-23.23,Elanco Animal Health Inc.
+LLY,Eli Lilly & Co.,2.45,3.08,Eli Lilly & Co.
+ELOX,Eloxx Pharmaceu..,0.01,-71.83,Eloxx Pharmaceuticals Inc.
+EBS,Emergent BioSol..,0.06,-17.33,Emergent BioSolutions Inc.
+ENTA,Enanta Pharmace..,0.02,-16.94,Enanta Pharmaceuticals Inc.
+EHC,Encompass Healt..,0.16,-2.73,Encompass Health Corp.
+ENDP,Endo Internatio..,0.02,-64.91,Endo International plc
+ENSG,Ensign Group In..,0.06,-8.02,Ensign Group Inc.
+EPZM,Epizyme Inc.,0.02,111.57,Epizyme Inc.
+ESPR,Esperion Therap..,0.02,-12.63,Esperion Therapeutics Inc.
+ESTA,Establishment L..,0.01,-13.57,Establishment Labs Holdings Inc.
+EVH,Evolent Health ..,0.01,-61.15,Evolent Health Inc. Class A
+EOLS,Evolus Inc.,0.01,2.86,Evolus Inc.
+EXAS,Exact Sciences ..,0.29,19.87,Exact Sciences Corp.
+EXEL,Exelixis Inc.,0.13,-1.49,Exelixis Inc.
+FATE,Fate Therapeuti..,0.02,15.57,Fate Therapeutics Inc.
+FGEN,FibroGen Inc.,0.07,-6.33,FibroGen Inc.
+FPRX,Five Prime Ther..,0.01,-68,Five Prime Therapeutics Inc.
+FLXN,Flexion Therape..,0.01,-0.74,Flexion Therapeutics Inc.
+FTSV,Forty Seven Inc..,0.01,-14.68,Forty Seven Inc.
+GTHX,G1 Therapeutics..,0.02,-43.22,G1 Therapeutics Inc.
+GNMK,GenMark Diagnos..,0.01,21.59,GenMark Diagnostics Inc.
+GHDX,Genomic Health ..,0.04,-16.26,Genomic Health Inc.
+GERN,Geron Corp.,0.01,-13.25,Geron Corp.
+GILD,Gilead Sciences..,2.02,-7.77,Gilead Sciences Inc.
+GKOS,Glaukos Corp.,0.05,11.68,Glaukos Corp.
+GBT,Global Blood Th..,0.07,42.47,Global Blood Therapeutics Inc.
+GMED,Globus Medical ..,0.1,8.92,Globus Medical Inc.
+GLYC,GlycoMimetics I..,0.01,-44.32,GlycoMimetics Inc.
+GOSS,Gossamer Bio In..,0.01,NA,Gossamer Bio Inc.
+GRTS,Gritstone Oncol..,0.01,-63.28,Gritstone Oncology Inc.
+GH,Guardant Health..,0.06,114.73,Guardant Health Inc.
+HAE,Haemonetics Cor..,0.16,13.32,Haemonetics Corp.
+HALO,Halozyme Therap..,0.05,23.43,Halozyme Therapeutics Inc.
+HNGR,Hanger Inc.,0.02,29,Hanger Inc.
+HCA,HCA Healthcare ..,0.83,-1.29,HCA Healthcare Inc.
+HQY,HealthEquity In..,0.1,-24.4,HealthEquity Inc.
+HSTM,HealthStream In..,0.02,10.03,HealthStream Inc.
+HSIC,Henry Schein In..,0.24,-19.87,Henry Schein Inc.
+HRTX,Heron Therapeut..,0.03,-21.56,Heron Therapeutics Inc.
+HSKA,Heska Corp.,0.01,-6.24,Heska Corp.
+HRC,Hill-Rom Holdin..,0.18,15.02,Hill-Rom Holdings Inc.
+HMSY,HMS Holdings Co..,0.08,-20.51,HMS Holdings Corp.
+HOLX,Hologic Inc.,0.34,18.38,Hologic Inc.
+FIXX,Homology Medici..,0.01,-32.48,Homology Medicines Inc.
+HZNP,Horizon Therape..,0.13,42.47,Horizon Therapeutics plc
+HUM,Humana Inc.,0.87,4.73,Humana Inc.
+ICUI,ICU Medical Inc..,0.08,-22.3,ICU Medical Inc.
+IDXX,IDEXX Laborator..,0.59,32.08,IDEXX Laboratories Inc.
+ILMN,Illumina Inc.,1.12,-0.73,Illumina Inc.
+IMGN,ImmunoGen Inc.,0.01,-40.25,ImmunoGen Inc.
+IMMU,Immunomedics In..,0.05,-4.88,Immunomedics Inc.
+INCY,Incyte Corp.,0.34,35.15,Incyte Corp.
+INVA,Innoviva Inc.,0.02,-23.26,Innoviva Inc.
+INGN,Inogen Inc.,0.02,-46.13,Inogen Inc.
+INOV,Inovalon Holdin..,0.03,53.96,Inovalon Holdings Inc. Class A
+INO,Inovio Pharmace..,0.01,-52.14,Inovio Pharmaceuticals Inc.
+INSM,Insmed Inc.,0.04,21.73,Insmed Inc.
+INSP,Inspire Medical..,0.02,33.31,Inspire Medical Systems Inc.
+PODD,Insulet Corp.,0.25,127.16,Insulet Corp.
+ITGR,Integer Holding..,0.06,-9.36,Integer Holdings Corp.
+IART,Integra LifeSci..,0.11,11.25,Integra LifeSciences Holdings Corp.
+NTLA,Intellia Therap..,0.01,-21.81,Intellia Therapeutics Inc.
+ICPT,Intercept Pharm..,0.04,-14.79,Intercept Pharmaceuticals Inc.
+XENT,Intersect ENT I..,0.01,-31.05,Intersect ENT Inc.
+ITCI,Intra-Cellular ..,0.01,-43.13,Intra-Cellular Therapies Inc.
+XON,Intrexon Corp.,0.01,-42.39,Intrexon Corp.
+ISRG,Intuitive Surgi..,1.57,14.22,Intuitive Surgical Inc.
+IVC,Invacare Corp.,0.01,64.77,Invacare Corp.
+NVTA,Invitae Corp.,0.04,54.58,Invitae Corp.
+IONS,Ionis Pharmaceu..,0.2,17.08,Ionis Pharmaceuticals Inc.
+IOVA,Iovance Biother..,0.05,158.41,Iovance Biotherapeutics Inc.
+IQV,IQVIA Holdings ..,0.63,24.78,IQVIA Holdings Inc.
+IRTC,iRhythm Technol..,0.05,2.49,iRhythm Technologies Inc.
+IRWD,Ironwood Pharma..,0.03,3.24,Ironwood Pharmaceuticals Inc. Class A
+JAZZ,Jazz Pharmaceut..,0.18,-2.22,Jazz Pharmaceuticals plc
+JNJ,Johnson & Johnson,8.63,-6.45,Johnson & Johnson
+KALA,Kala Pharmaceut..,0.01,-41.8,Kala Pharmaceuticals Inc.
+KALV,KalVista Pharma..,0.01,-34.3,KalVista Pharmaceuticals Inc.
+KPTI,Karyopharm Ther..,0.01,50.87,Karyopharm Therapeutics Inc.
+KZR,Kezar Life Scie..,0.01,-90.17,Kezar Life Sciences Inc.
+KNSA,Kiniksa Pharmac..,0.01,-61.73,Kiniksa Pharmaceuticals Ltd. Class A
+KRYS,Krystal Biotech..,0.01,137.49,Krystal Biotech Inc.
+KURA,Kura Oncology I..,0.01,28.81,Kura Oncology Inc.
+LH,Laboratory Corp..,0.42,4.69,Laboratory Corp. of America Holdings
+LNTH,Lantheus Holdin..,0.02,37.28,Lantheus Holdings Inc.
+LMAT,LeMaitre Vascul..,0.01,31.98,LeMaitre Vascular Inc.
+LXRX,Lexicon Pharmac..,0.01,-56.37,Lexicon Pharmaceuticals Inc.
+LHCG,LHC Group Inc.,0.09,39.29,LHC Group Inc.
+LGND,Ligand Pharmace..,0.05,-27.07,Ligand Pharmaceuticals Inc.
+LIVN,LivaNova plc,0.09,-33.13,LivaNova plc
+LMNX,Luminex Corp.,0.02,-22.28,Luminex Corp.
+MGNX,MacroGenics Inc..,0.01,-47.98,MacroGenics Inc.
+MDGL,Madrigal Pharma..,0.02,-30.77,Madrigal Pharmaceuticals Inc.
+MGLN,Magellan Health..,0.04,28.27,Magellan Health Inc.
+MNK,Mallinckrodt pl..,0.01,-90.59,Mallinckrodt plc
+MNKD,MannKind Corp.,0.01,-32.87,MannKind Corp.
+MRKR,Marker Therapeu..,0.01,-58.31,Marker Therapeutics Inc.
+MASI,Masimo Corp.,0.19,38.14,Masimo Corp.
+MCK,McKesson Corp.,0.65,15.07,McKesson Corp.
+MDCO,Medicines Co.,0.09,149.9,Medicines Co.
+MD,MEDNAX Inc.,0.05,-32.99,MEDNAX Inc.
+MEDP,Medpace Holding..,0.06,30.57,Medpace Holdings Inc.
+MDT,Medtronic plc,3.66,21.66,Medtronic plc
+MGTX,MeiraGTx Holdin..,0.01,20.98,MeiraGTx Holdings plc
+MRK,Merck & Co. Inc..,5.44,14.59,Merck & Co. Inc.
+VIVO,Meridian Biosci..,0.01,-55.12,Meridian Bioscience Inc.
+MMSI,Merit Medical S..,0.04,-54.26,Merit Medical Systems Inc.
+MLAB,Mesa Laboratori..,0.02,22.18,Mesa Laboratories Inc.
+MTD,Mettler-Toledo ..,0.44,24.75,Mettler-Toledo International Inc.
+NERV,Minerva Neurosc..,0.01,-37.68,Minerva Neurosciences Inc.
+MRTX,Mirati Therapeu..,0.05,157.75,Mirati Therapeutics Inc.
+MOH,Molina Healthca..,0.16,2.18,Molina Healthcare Inc.
+MNTA,Momenta Pharmac..,0.03,26.62,Momenta Pharmaceuticals Inc.
+MYL,Mylan NV,0.26,-48.29,Mylan NV
+MYOK,MyoKardia Inc.,0.06,1.63,MyoKardia Inc.
+MYOV,Myovant Science..,0.01,-66.83,Myovant Sciences Ltd.
+MYGN,Myriad Genetics..,0.05,-16.28,Myriad Genetics Inc.
+NTRA,Natera Inc.,0.04,158.3,Natera Inc.
+NHC,National Health..,0.02,6.18,National HealthCare Corp.
+NRC,National Research Corp,0.02,58.16,National Research Corp.
+NTUS,Natus Medical I..,0.03,2.71,Natus Medical Inc.
+NKTR,Nektar Therapeu..,0.08,-47.81,Nektar Therapeutics Class A
+NEOG,Neogen Corp.,0.09,5.85,Neogen Corp.
+NEO,NeoGenomics Inc..,0.05,50.44,NeoGenomics Inc.
+NBIX,Neurocrine Bios..,0.21,31.26,Neurocrine Biosciences Inc.
+STIM,Neuronetics Inc..,0.01,-75.73,Neuronetics Inc.
+NVRO,Nevro Corp.,0.07,168.14,Nevro Corp.
+NXGN,NextGen Healthc..,0.02,12.52,NextGen Healthcare Inc.
+NVAX,Novavax Inc.,0.01,-87.69,Novavax Inc.
+NVCR,Novocure Ltd.,0.14,175.52,Novocure Ltd.
+NUVA,NuVasive Inc.,0.08,23.89,NuVasive Inc.
+ODT,Odonate Therape..,0.01,107.52,Odonate Therapeutics Inc.
+OMER,Omeros Corp.,0.02,13.6,Omeros Corp.
+OMCL,Omnicell Inc.,0.07,8.38,Omnicell Inc.
+OPK,OPKO Health Inc..,0.02,-53.87,OPKO Health Inc.
+OPTN,Optinose Inc.,0.01,1.17,Optinose Inc.
+OSUR,OraSure Technol..,0.01,-36.41,OraSure Technologies Inc.
+ORGO,Organogenesis H..,0.01,NA,Organogenesis Holdings Inc.
+OFIX,Orthofix Medica..,0.03,-21.76,Orthofix Medical Inc.
+KIDS,OrthoPediatrics..,0.01,48.33,OrthoPediatrics Corp.
+PACB,Pacific Bioscie..,0.02,-38.71,Pacific Biosciences of California Inc.
+PCRX,Pacira BioScien..,0.04,-9.72,Pacira BioSciences Inc.
+PDCO,Patterson Cos. ..,0.04,-27.04,Patterson Cos. Inc.
+PDLI,PDL BioPharma I..,0.01,3.09,PDL BioPharma Inc.
+PEN,Penumbra Inc.,0.11,28.35,Penumbra Inc.
+PKI,PerkinElmer Inc..,0.24,14.26,PerkinElmer Inc.
+PRGO,Perrigo Co. plc,0.18,-22.19,Perrigo Co. plc
+PETQ,PetIQ Inc.,0.01,-16.22,PetIQ Inc. Class A
+PFE,Pfizer Inc.,4.93,-13.12,Pfizer Inc.
+PHAS,PhaseBio Pharma..,0.01,-4.58,PhaseBio Pharmaceuticals Inc.
+PAHC,Phibro Animal H..,0.01,-35.67,Phibro Animal Health Corp. Class A
+PTLA,Portola Pharmac..,0.05,41.87,Portola Pharmaceuticals Inc.
+PRAH,PRA Health Scie..,0.16,3.66,PRA Health Sciences Inc.
+DTIL,Precision BioSc..,0.01,NA,Precision BioSciences Inc.
+PINC,Premier Inc.,0.04,-8.05,Premier Inc. Class A
+PBH,Prestige Consum..,0.05,-2.86,Prestige Consumer Healthcare Inc.
+PRNB,Principia Bioph..,0.01,25.31,Principia Biopharma Inc.
+PGNX,Progenics Pharm..,0.01,13.39,Progenics Pharmaceuticals Inc.
+PRTA,Prothena Corp. ..,0.01,-5.16,Prothena Corp. plc
+PRSC,Providence Serv..,0.02,-6.55,Providence Service Corp.
+PTCT,PTC Therapeutic..,0.04,37.78,PTC Therapeutics Inc.
+PBYI,Puma Biotechnol..,0.01,-63.72,Puma Biotechnology Inc.
+QTRX,Quanterix Corp.,0.01,41.11,Quanterix Corp.
+DGX,Quest Diagnosti..,0.36,10.04,Quest Diagnostics Inc.
+QDEL,Quidel Corp.,0.06,5.65,Quidel Corp.
+RCM,R1 RCM Inc.,0.02,48.7,R1 RCM Inc.
+RARX,Ra Pharmaceutic..,0.02,259.89,Ra Pharmaceuticals Inc.
+RDUS,Radius Health I..,0.03,63.9,Radius Health Inc.
+RDNT,RadNet Inc.,0.02,38.17,RadNet Inc.
+RETA,Reata Pharmaceu..,0.04,230.74,Reata Pharmaceuticals Inc. Class A
+REGN,Regeneron Pharm..,0.56,2.25,Regeneron Pharmaceuticals Inc.
+RGNX,REGENXBIO Inc.,0.03,-37.03,REGENXBIO Inc.
+RGEN,Repligen Corp.,0.08,32.75,Repligen Corp.
+REPL,Replimune Group..,0.01,-13.35,Replimune Group Inc.
+RMD,ResMed Inc.,0.49,44.73,ResMed Inc.
+RTRX,Retrophin Inc.,0.01,-44.84,Retrophin Inc.
+RVNC,Revance Therape..,0.01,-24.17,Revance Therapeutics Inc.
+RYTM,Rhythm Pharmace..,0.01,-17.71,Rhythm Pharmaceuticals Inc.
+RIGL,Rigel Pharmaceu..,0.01,-10,Rigel Pharmaceuticals Inc.
+RMTI,Rockwell Medica..,0.01,-48.14,Rockwell Medical Inc.
+RUBY,Rubius Therapeu..,0.01,-60.15,Rubius Therapeutics Inc.
+SAGE,Sage Therapeuti..,0.18,35.42,Sage Therapeutics Inc.
+SGMO,Sangamo Therape..,0.03,-1.05,Sangamo Therapeutics Inc.
+SRPT,Sarepta Therape..,0.14,-12.97,Sarepta Therapeutics Inc.
+SRRK,Scholar Rock Ho..,0.01,-65.4,Scholar Rock Holding Corp.
+SGEN,Seattle Genetic..,0.24,116.18,Seattle Genetics Inc.
+SEM,Select Medical ..,0.05,6.3,Select Medical Holdings Corp.
+SWAV,Shockwave Medic..,0.01,NA,Shockwave Medical Inc.
+SIBN,SI-BONE Inc.,0.01,-0.79,SI-BONE Inc.
+SIGA,SIGA Technologi..,0.01,-10.63,SIGA Technologies Inc.
+SLP,Simulations Plu..,0.01,72.77,Simulations Plus Inc.
+SLDB,Solid Bioscienc..,0.01,-88.23,Solid Biosciences Inc.
+SRNE,Sorrento Therap..,0.01,-53.5,Sorrento Therapeutics Inc.
+ONCE,Spark Therapeut..,0.09,171.53,Spark Therapeutics Inc.
+SPPI,Spectrum Pharma..,0.02,-33.17,Spectrum Pharmaceuticals Inc.
+STAA,STAAR Surgical ..,0.02,-14.06,STAAR Surgical Co.
+STE,STERIS plc,0.31,27.78,STERIS plc
+SYK,Stryker Corp.,1.83,24.25,Stryker Corp.
+SUPN,Supernus Pharma..,0.04,-48.72,Supernus Pharmaceuticals Inc.
+SGRY,Surgery Partner..,0.01,-13.52,Surgery Partners Inc.
+SRDX,Surmodics Inc.,0.02,-31.55,Surmodics Inc.
+SYNH,Syneos Health I..,0.08,3.93,Syneos Health Inc.
+THOR,Synthorx Inc.,0.01,NA,Synthorx Inc.
+SYRS,Syros Pharmaceu..,0.01,-33.47,Syros Pharmaceuticals Inc.
+TRHC,Tabula Rasa Hea..,0.03,-32.87,Tabula Rasa HealthCare Inc.
+TCMD,Tactile Systems..,0.02,-3.5,Tactile Systems Technology Inc.
+TNDM,Tandem Diabetes..,0.08,105.01,Tandem Diabetes Care Inc.
+TCRR,TCR2 Therapeuti..,0.01,NA,TCR2 Therapeutics Inc.
+TDOC,Teladoc Health ..,0.12,41.01,Teladoc Health Inc.
+TFX,Teleflex Inc.,0.39,35.55,Teleflex Inc.
+THC,Tenet Healthcar..,0.05,28.69,Tenet Healthcare Corp.
+TGTX,TG Therapeutics..,0.01,54.74,TG Therapeutics Inc.
+TXMD,TherapeuticsMD ..,0.02,-43.97,TherapeuticsMD Inc.
+TBPH,Theravance Biop..,0.02,-27.45,Theravance Biopharma Inc.
+TMO,Thermo Fisher S..,2.93,30.51,Thermo Fisher Scientific Inc.
+TLRY,Tilray Inc.,0.02,-80.53,Tilray Inc.
+TVTY,Tivity Health I..,0.02,-42.75,Tivity Health Inc.
+TRXC,TransEnterix In..,0.01,-91.3,TransEnterix Inc.
+TBIO,Translate Bio I..,0.01,59.22,Translate Bio Inc.
+TCDA,Tricida Inc.,0.02,8.95,Tricida Inc.
+GTS,Triple-S Manage..,0.01,6.91,Triple-S Management Corp. Class B
+TWST,Twist Bioscienc..,0.01,-11.1,Twist Bioscience Corp.
+RARE,Ultragenyx Phar..,0.06,-25.42,Ultragenyx Pharmaceutical Inc.
+QURE,uniQure NV,0.03,131.89,uniQure NV
+UTHR,United Therapeu..,0.09,-18.51,United Therapeutics Corp.
+UNH,UnitedHealth Gr..,5.19,1.68,UnitedHealth Group Inc.
+UHS,Universal Healt..,0.31,13.34,Universal Health Services Inc. Class B
+USPH,US Physical The..,0.04,-0.69,US Physical Therapy Inc.
+VNDA,Vanda Pharmaceu..,0.02,-30.87,Vanda Pharmaceuticals Inc.
+VREX,Varex Imaging C..,0.03,22.73,Varex Imaging Corp.
+VAR,Varian Medical ..,0.27,12.04,Varian Medical Systems Inc.
+VEEV,Veeva Systems I..,0.49,70.84,Veeva Systems Inc. Class A
+VRTX,Vertex Pharmace..,1.09,27.48,Vertex Pharmaceuticals Inc.
+VRAY,ViewRay Inc.,0.01,-57.05,ViewRay Inc.
+VKTX,Viking Therapeu..,0.01,-26.98,Viking Therapeutics Inc.
+VCRA,Vocera Communic..,0.02,-40.54,Vocera Communications Inc.
+VYGR,Voyager Therape..,0.01,14.22,Voyager Therapeutics Inc.
+WAT,Waters Corp.,0.39,11.31,Waters Corp.
+WVE,WaVe Life Scien..,0.01,-25.19,WaVe Life Sciences Ltd.
+WCG,WellCare Health..,0.33,24.4,WellCare Health Plans Inc.
+WST,West Pharmaceut..,0.26,41.04,West Pharmaceutical Services Inc.
+WMGI,Wright Medical ..,0.06,4.2,Wright Medical Group NV
+XNCR,Xencor Inc.,0.04,-3.31,Xencor Inc.
+XERS,Xeris Pharmaceu..,0.01,-59.74,Xeris Pharmaceuticals Inc.
+YMAB,Y-mAbs Therapeu..,0.01,18.59,Y-mAbs Therapeutics Inc.
+ZBH,Zimmer Biomet H..,0.71,30.67,Zimmer Biomet Holdings Inc.
+ZIOP,ZIOPHARM Oncolo..,0.01,65,ZIOPHARM Oncology Inc.
+ZTS,Zoetis Inc.,1.5,27.51,Zoetis Inc.
+ZGNX,Zogenix Inc.,0.04,15.18,Zogenix Inc.
