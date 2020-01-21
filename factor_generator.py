@@ -89,18 +89,24 @@ def get_tech_factors(dt: "DataFrame") -> "DataFrame":
     bb_list = bb(dt["Adj Close"])
     cmf_list = cmf(dt["High"],dt["Adj Close"],dt["Low"],dt["Volume"])
     rsi_list =rsi(dt["Adj Close"])
-    res = pd.concat([wr_list,clv_list,ad_list,ppo_list,
+    res = pd.concat([wr_list,ppo_list,
                      pvo_list,so_list,macd_list,bb_list,
-                     cmf_list,rsi_list],axis=1)
+                     rsi_list],axis=1)
     return res
+
+def get_x_data(dt):
+    table = pd.DataFrame()
+    for symbols in dt.loc[:,"Adj Close"].columns:
+        stock_data = dt.loc[:,(slice(None),symbols)]
+        factor_data = get_tech_factors(stock_data)
+        factor_data.columns = pd.MultiIndex.from_product([factor_data.columns.to_list(),[symbols]])
+        table = pd.concat([table,factor_data],axis=1)
+        print(symbols)
+    return table
 
 
 if __name__=="__main__":
     raw_data = pd.read_csv("raw_data.csv", index_col=[0], header=[0, 1], parse_dates=True)
     raw_data = raw_data.dropna(axis=1)
     #table = get_tech_factors(raw_data.loc[:,(slice(None),"ABT")])
-    for symbols in raw_data.columns.levels[1]:
-        stock_data = raw_data.loc[:,(slice(None),symbols)]
-        factor_data = get_tech_factors(stock_data)
-
-    print(table)
+    x_table = get_x_data(raw_data)
