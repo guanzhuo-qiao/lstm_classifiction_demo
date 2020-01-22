@@ -140,8 +140,8 @@ plot_confusion_matrix(y_val_single, y_pre, classes=5,
                       title=None,
                       cmap=plt.cm.Blues)
 
-np.cov(y_val_single,y_pre)
-np.cov(np.diff(y_val_single),np.diff(y_pre))
+np.corrcoef(y_val_single,y_pre)
+np.corrcoef(np.diff(y_val_single),np.diff(y_pre))
 
 plt.plot(y_val_single, label="real")
 plt.plot(y_pre, label="prediction")
